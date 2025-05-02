@@ -6,13 +6,16 @@
   <img src="https://github.com/user-attachments/assets/e2acc7ed-3f43-482e-9bf2-be9d15479a8f" alt="Banner" style="width:100%; max-width:900px; border-radius:10px; height:400px">
 </p>
 
-
-<p align="center"  background-image: url("https://github.com/user-attachments/assets/cdbce8b7-b25f-4cc5-89ef-bb70b854272a") >
-</p>
-
 <div align="center">
 <h2 align="center">Hi 👋! My name is AHMAD and I'm a FULLSTACK DEVLOPER, from JORDAN </h2>
 </div>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/16f240c6-1fec-4032-b006-e3f852b79c0f" alt="Banner" style="width:100%; max-width:900px; border-radius:10px; height:400px">
+</p>
+
+
+
 
 <br clear="both">
 
