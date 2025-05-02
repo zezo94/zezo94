@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-<h2 align="center">Hi 👋! My name is AHMAD and I'm a FULLSTACK DEVLOPER, from JORDAN </h2>
+<h2 align="center">Hi 👋! My name is AHMAD and I'm a FULLSTACK DEVLOPER </h2>
 </div>
 
 <p align="center">
