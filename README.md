@@ -2,24 +2,27 @@
 
 
 
+
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e2acc7ed-3f43-482e-9bf2-be9d15479a8f" alt="Banner" style="width:100%; max-width:900px; border-radius:10px; height:400px">
 </p>
 
 <div align="center">
-<h2 align="center">Hi 👋! My name is AHMAD and I'm a FULLSTACK DEVLOPER </h2>
+<h1 align="center">Hi 👋! My name is AHMAD and I'm a FULLSTACK DEVLOPER </h1>
+<h3 align="center">I'm a passionate developer with a focus on building efficient, scalable, and user-friendly applications. I enjoy solving complex problems and learning new technologies.</h3>
 </div>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/16f240c6-1fec-4032-b006-e3f852b79c0f" alt="Banner" style="width:100%; max-width:900px; border-radius:10px; height:400px">
 </p>
 
-
-
-
-<br clear="both">
-
 <div align="center">
+<h2 align="center"> 🛠 Tech Stack </h2></div>
+
+  
+<br clear="both">
+  <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
@@ -59,13 +62,17 @@
 
 <br clear="both">
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zezo94&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<h2 align="center"> 📈 GitHub Stats</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=zezo94&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zezo94&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
 </div>
 
 
 
 <br clear="both">
+<h2 align="center"> 📫 Connect with Me</h2>
 
 <div align="center">
    <a href="mailto:aahmad.zalloum@gmail.com" target="blank">
@@ -73,10 +80,7 @@
    
   <a href="https://linkedin.com/in/ahmadzalloum" target="blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  /> </a>
-  
-  <a href="https://paypal.me/zalloum94" target="blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="47" height="35" alt="paypal logo"  /> </a>
-  
+    
   <a href="https://t.me/A_zezo94" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  /> </a>
 
